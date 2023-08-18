@@ -6,3 +6,7 @@ git commit -m "commit message"
 git branch -M main
 git remote add origin github_folder_link
 git push -u origin main
+
+
+to check registered username and email
+git config --global --list
